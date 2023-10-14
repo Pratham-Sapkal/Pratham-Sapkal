@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-sapkal&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-sapkal" /> </p>
 
-- 🔭 I’m currently working on **Line Follwer with obstacle avoding using MSP430 microcontroller**
+- 🔭 I’m currently working on **Line Follwer with obstacle detection and stoping robo car**
 
-- 🌱 I’m currently learning **IoT, DVLSI etc**
+- 🌱 I’m currently learning **IoT, 3D Modelling, PCB Design etc**
 
 - 🤝 I’m looking for help with **IoT Projects**
 
