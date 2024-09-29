@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **WildLife Tracking and Monitoring System**
 
-- 🌱 I’m currently learning **IoT, 3D Modelling, PCB Design etc**
+- 🌱 I’m currently learning **IoT, PCB Design etc**
 
 - 🤝 I’m looking for help with **IoT Projects**
 
