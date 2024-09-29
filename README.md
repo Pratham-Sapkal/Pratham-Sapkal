@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratham-sapkal&label=Profile%20views&color=0e75b6&style=flat" alt="pratham-sapkal" /> </p>
 
-- 🔭 I’m currently working on **Line Follwer with obstacle detection and stoping robo car**
+- 🔭 I’m currently working on **WildLife Tracking and Monitoring System**
 
 - 🌱 I’m currently learning **IoT, 3D Modelling, PCB Design etc**
 
